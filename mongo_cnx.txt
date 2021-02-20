@@ -1,0 +1,1 @@
+mongo "mongodb+srv://cluster0.unf8v.mongodb.net/myFirstDatabase" --username root
